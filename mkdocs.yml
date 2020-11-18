@@ -1,0 +1,8 @@
+site_name: "bryce-poc"
+site_description: "doco-test"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
